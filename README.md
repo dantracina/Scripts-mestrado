@@ -1,4 +1,4 @@
-# Mestrado
+# Scripts do Mestrado
 Alguns scripts desenvolvidos durante o mestrado no estudo das árvore broom e na verificação do seu tipo.
 
 
